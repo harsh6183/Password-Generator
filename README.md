@@ -1,8 +1,39 @@
-# React + Vite
+# 🔐 SecurePass - Advanced Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A powerful and modern password generator app built with React and Tailwind CSS. SecurePass generates strong, customizable, and easy-to-remember passwords with live strength indicators and clipboard copy functionality.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+👉 [View Live Site]([(https://innovativepasswordgenerator.netlify.app/)])  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🔧 Features
+
+- 🌗 Dark / Light Theme Toggle
+- 📏 Adjustable Password Length (5–20)
+- 🔢 Include Numbers
+- 🔣 Include Symbols
+- 🧠 Pronounceable Password Option (Easy to Remember)
+- 👁️ Show / Hide Password
+- ✅ Password Strength Indicator
+- 📋 Clipboard Copy with Auto-Expiry
+- ⚡ Built with React + Tailwind CSS
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Tailwind CSS
+- Git & GitHub
+- Netlify (for deployment)
+
+---
+
+## 📂 Installation
+
+```bash
+git clone[ https://github.com/yourusername/securepass.git](https://github.com/harsh6183/Password-Generator.git)
+cd securepass
+npm install
+npm run dev
