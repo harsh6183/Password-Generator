@@ -3,7 +3,7 @@
 A powerful and modern password generator app built with React and Tailwind CSS. SecurePass generates strong, customizable, and easy-to-remember passwords with live strength indicators and clipboard copy functionality.
 
 ## 🚀 Live Demo
-👉 [View Live Site]([(https://innovativepasswordgenerator.netlify.app/)])  
+👉 [View Live Site](https://innovativepasswordgenerator.netlify.app/) 
 
 ---
 
@@ -33,7 +33,7 @@ A powerful and modern password generator app built with React and Tailwind CSS. 
 ## 📂 Installation
 
 ```bash
-git clone[ https://github.com/yourusername/securepass.git](https://github.com/harsh6183/Password-Generator.git)
+git clone(https://github.com/harsh6183/Password-Generator.git)
 cd securepass
 npm install
 npm run dev
